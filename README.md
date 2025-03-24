@@ -1,1 +1,2 @@
-# node-getting-started
+# Node Getting Started
+My first Node.js project.
